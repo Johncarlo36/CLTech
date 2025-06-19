@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CLTech/static/css/main.16185f44.css",
+    "main.js": "/CLTech/static/js/main.4dcd59a1.js",
+    "index.html": "/CLTech/index.html",
+    "main.16185f44.css.map": "/CLTech/static/css/main.16185f44.css.map",
+    "main.4dcd59a1.js.map": "/CLTech/static/js/main.4dcd59a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16185f44.css",
+    "static/js/main.4dcd59a1.js"
+  ]
+}
