@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: 'Helvetica Neue', 'Segoe UI', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #333;
+  background-color: #f9f9f9;
+  line-height: 1.6;
+}
+
+/* Apply a distinct font and style to headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Georgia', 'Times New Roman', serif;
+  color: #222;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+/* Optional: Give code elements a subtle background and padding */
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+  background-color: #f4f4f4;
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+}

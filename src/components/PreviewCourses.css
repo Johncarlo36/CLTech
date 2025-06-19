@@ -1,0 +1,41 @@
+.preview-card {
+  border-width: 2px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.preview-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+}
+
+/* Active vs inactive */
+.active-card {
+  border-color: #007bff;
+}
+
+.inactive-card {
+  border-color: #6c757d;
+  opacity: 0.7;
+}
+
+.scroll-desc {
+  overflow-y: auto;
+  max-height: 100px;
+}
+
+.scroll-desc::-webkit-scrollbar {
+  width: 6px;
+}
+
+.scroll-desc::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 123, 255, 0.6);
+  border-radius: 3px;
+}
+
+.price-color {
+  color: #28a745; /* green for pricing */
+}
+
+.title-link:hover {
+  color: #0056b3;
+}
